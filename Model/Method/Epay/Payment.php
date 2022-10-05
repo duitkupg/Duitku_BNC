@@ -177,7 +177,7 @@ class Payment extends \Duitku\BNC\Model\Method\AbstractPayment
 		
 		$params = array(
              'merchantCode' => $merchantcode,
-             'paymentAmount' => $amount,
+             'paymentAmount' => $paymentAmount,
              'paymentMethod' => 'NC',
 			 'merchantOrderId' =>$orderId,
              'productDetails' => 'Order : '.$orderId,
