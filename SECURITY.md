@@ -8,11 +8,11 @@ We appreciate your efforts and responsible disclosure and will make every effort
 
 Please kindly report (suspected) security vulnerabilities to
 
-    [support@duitku.com](mailto:support@duitku.com)
+[support@duitku.com](mailto:support@duitku.com)
 
 and please add CC and BCC the email to
 
-    [timur@duitku.com](mailto:timur@duitku.com)
+[timur@duitku.com](mailto:timur@duitku.com)
     [roy@duitku.com](mailto:roy@duitku.com)
     [mega@duitku.com](mailto:mega@duitku.com)
     [rayhan@duitku.com](mailto:rayhan@duitku.com)
