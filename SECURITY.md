@@ -13,10 +13,14 @@ Please kindly report (suspected) security vulnerabilities to
 and please add CC and BCC the email to
 
 [timur@duitku.com](mailto:timur@duitku.com)
-    [roy@duitku.com](mailto:roy@duitku.com)
-    [mega@duitku.com](mailto:mega@duitku.com)
-    [rayhan@duitku.com](mailto:rayhan@duitku.com)
-    [dhani@duitku.com](mailto:dhani@duitku.com)
+
+[roy@duitku.com](mailto:roy@duitku.com)
+
+[mega@duitku.com](mailto:mega@duitku.com)
+
+[rayhan@duitku.com](mailto:rayhan@duitku.com)
+
+[dhani@duitku.com](mailto:dhani@duitku.com)
 
 You will receive a response from
 us as soon as we could. If the issue is confirmed, we will release a new patch as soon
