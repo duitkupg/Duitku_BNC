@@ -14,9 +14,9 @@
  */
 
 namespace Duitku\BNC\Helper;
-include_once('Duitku/DuitkuCore.php');
+// include_once('Duitku/DuitkuCore.php');
 use Duitku\BNC\Helper\DuitkuConstants;
-use Duitku_BNC_Core;
+use Duitku\BNC\Helper\Duitku\Duitku_BNC_Core;
 class Data extends \Magento\Framework\App\Helper\AbstractHelper
 {
     /**

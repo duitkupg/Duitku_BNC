@@ -1,4 +1,5 @@
 <?php
+namespace Duitku\BNC\Helper\Duitku;
 
 class Duitku_BNC_ApiRequestor {
 

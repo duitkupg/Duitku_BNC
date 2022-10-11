@@ -1,5 +1,7 @@
 <?php
-include_once('ApiRequestor.php');
+namespace Duitku\BNC\Helper\Duitku;
+// include_once('ApiRequestor.php');
+use Duitku\BNC\Helper\Duitku\Duitku_BNC_ApiRequestor;
 class Duitku_BNC_Core {
 
   public static function getRedirectionUrl($baseUrl, $params)
