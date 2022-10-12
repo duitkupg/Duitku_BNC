@@ -1,4 +1,4 @@
-[![duitku](https://www.duitku.com/wp-content/themes/duitku/img/logo.svg)](https://www.duitku.com/)
+[![duitku](https://www.duitku.com/wp-content/themes/duitku/img/logoblue.svg)](https://www.duitku.com/)
 
 Duitku integration for your Magento 2! 💸💸💸</br>
 Start receiving payment through your e-commerce magento with Duitku extension plugin payment integration.
