@@ -22,7 +22,7 @@ With these steps, you can custom/modify our Magento plugins to handle the busine
 1. Download and extract the plugin you have previously downloaded from GitHub and rename the folder as BNC.
 2. Upload to the root of the Magento folder (Magento installation folder) you use the FTP client of your choice.
 3. Locate the root Magento directory of your shop via FTP connection. </br>(By default the root folder is on SERVER_HOST/Magento)
-4. Copy the app folders into the Magento root folder.
+4. Move the BNC folders into the Magento `root/app/code/Duitku` folder. </br>(You might need to create the folder `code/Duitku` if it is not exist).
 5. Run this command on terminal
 
     `bin/magento module:enable Duitku_BNC`
