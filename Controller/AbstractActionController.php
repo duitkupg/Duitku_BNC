@@ -146,8 +146,8 @@ abstract class AbstractActionController extends \Magento\Framework\App\Action\Ac
 		$message = __("Order placed and is now awaiting payment authorization");
 		$order->addStatusToHistory($message);
 		$order->setIsNotified(false);
-		$order->save();
-// 		$this->saveOrder($order);
+		// $order->save();
+		$this->saveOrder($order);
 	}
 
 	protected function acceptOrder(){
